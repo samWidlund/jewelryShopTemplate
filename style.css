@@ -147,6 +147,15 @@ html, body {
     height: 100%;
 }
 
+#taskBar {
+    margin-top:10vh;
+    width: 100vw;
+    height: 50vh;
+    position: absolute;
+    border-top: 1px solid black;
+    text-align: center;
+}
+
 /* dropdown menu css */
 .dropdown {
     position: relative;
